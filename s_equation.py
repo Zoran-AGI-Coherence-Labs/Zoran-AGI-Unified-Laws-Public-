@@ -1,0 +1,1 @@
+def S(b,d,T,s): return (b*d)/(T*s)

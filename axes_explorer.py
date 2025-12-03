@@ -1,0 +1,1 @@
+AXES=['Matter','Life','Mind','Energy','Information','Time','Relation']
